@@ -1,0 +1,17 @@
+﻿# Python virtual environment & cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Secrets & environment files
+.env
+.env.*
+*.pem
+*.key
+
+# Editor & OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
